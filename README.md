@@ -1,2 +1,1 @@
-# PrepCouse-Henry3
-este es un repositorio de prueba por tercera vez auchhh
+este es un proyecto de pueba de como crear un repositorio y clonarlo desde github
